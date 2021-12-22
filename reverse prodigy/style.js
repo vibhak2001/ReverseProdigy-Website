@@ -20,14 +20,3 @@ const navSlide = () => {
 }
 
 navSlide();
-
-//.submit-btn button {
-  //  font-size: 20px;
-    //border: 1px solid #3498db;
-    //border-radius: 25px;
-    //background-color: #0098aa;
-    //color: white;
-    //padding: 10px 20px;
-    //cursor: pointer;
-    //outline: 0;
-//}
